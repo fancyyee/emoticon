@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">课表</string>
+    <string name="one">军事理论</string>
+    <string name="two">民航概论</string>
+    <string name="three">高等数学Ⅱ(1)</string>
+    <string name="four">未来航空运输系统</string>
+    <string name="five">思想道德修养与法律基础</string>
+    <string name="six">大学英语Ⅲ</string>
+    <string name="seven">计算思维导论</string>
+    <string name="eight">体育（一）</string>
+    <string name="nine">大学生心理健康教育</string>
+    <string name="ten">高等数学Ⅱ(1)</string>
+    <string name="eleven">周日下午：认识身边的系统</string>
+    <string name="Monday">周一</string>
+    <string name="Thuesday">周二</string>
+    <string name="Wednesday">周三</string>
+    <string name="Thrsday">周四</string>
+    <string name="Friday">周五</string>
+    <string name="Saterday">周六</string>
+    <string name="Sunday">周日</string>
+</resources>
